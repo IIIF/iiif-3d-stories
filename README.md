@@ -1,6 +1,4 @@
-# iiif-3d
-
-Deprecated: use https://github.com/IIIF/3d/issues
+# Deprecated: use https://github.com/IIIF/3d/issues
 
 Work of the IIIF 3D Community group
 
